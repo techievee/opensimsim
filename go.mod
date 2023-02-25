@@ -7,6 +7,6 @@ require (
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/echo/v4 v4.1.10
 	github.com/labstack/gommon v0.3.0
-	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	google.golang.org/appengine v1.6.4 // indirect
 )
